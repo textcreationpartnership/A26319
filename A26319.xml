@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Southt. ss. Ad General. Quarterial. Session. Pacis Domini Regis tent. pro com. prædict. apud Castrum Winton. in com. prædict. die Martis octavo die Octobris anno regni Regis Caroli Secundi tricesimo coram Carolo Domino De la Warr, Hugone Stewkeley, baronett. Carolo Lee, mil. Thoma Cole, ar. Olivero St. Johnm, ar. Willielmo Wither, ar. &amp; aliis justiciariis, &amp;c.</title>
+            <author>England and Wales. Court of Quarter Sessions of the Peace (Southampton)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26319</idno>
+            <idno type="STC">Wing A464B</idno>
+            <idno type="STC">ESTC R213917</idno>
+            <idno type="EEBO-CITATION">99826167</idno>
+            <idno type="PROQUEST">99826167</idno>
+            <idno type="VID">30559</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26319)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30559)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1822:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Southt. ss. Ad General. Quarterial. Session. Pacis Domini Regis tent. pro com. prædict. apud Castrum Winton. in com. prædict. die Martis octavo die Octobris anno regni Regis Caroli Secundi tricesimo coram Carolo Domino De la Warr, Hugone Stewkeley, baronett. Carolo Lee, mil. Thoma Cole, ar. Olivero St. Johnm, ar. Willielmo Wither, ar. &amp; aliis justiciariis, &amp;c.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (Southampton)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.l.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On punishing vagrants, beggars, wandering soldiers, and mariners.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vagrancy --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Begging --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30559:1" rendition="simple:additions"/>
+            <opener>
+               <dateline>Southt. ſſ.</dateline>
+               <dateline>Ad General. Quarterial. Seſſion. Pacis Domini Regis tent. pro Com. praedict. apud Caſtrum Winton. in Com. praedict. <date>Die Martis Octavo Die <hi>Octobris</hi> Anno Regni Regis CAROLI Secundi Triceſimo</date> coram <hi>Ca<g ref="char:EOLhyphen"/>rolo</hi> Domino <hi>De la Warr, Hugone Stewkeley,</hi> Baronett. <hi>Carolo Lee,</hi> Mil. <hi>Thoma Cole,</hi> Ar. <hi>Olivero St. John,</hi> Ar. <hi>Willielmo Wither,</hi> Ar. &amp; aliis Juſticiariis, <hi>&amp;c.</hi>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch, as the grand Inqueſt hath informed this Court that the daily concourſe and great increaſe of Rogues, Vagabonds, and ſturdy Beggars is a great grievance and annoyance to the Inhabitants of this County, and through the negligence, or ignorance of thoſe Officers, who have been intruſted in this concern, they are now grown ſo inſolent and preſumptuous, that they have oft by threats and menaces extorted Money and Victuals, from thoſe who live in Houſes far remote from Neigh<g ref="char:EOLhyphen"/>bours, whilſt their Husbands and Servants have been employed abroad in the management of their lawfull Vocations: and have put the people in a general Conſter<g ref="char:EOLhyphen"/>nation or Fear, that they will fire their Houſes, or ſteal their Goods: the Conſequences may prove very dangerous if not timely prevented. Wherefore this Court taking into their ſerious Conſideration what remedies may be moſt properly applied to theſe growing miſchiefs, do Order and Command all chief Conſtables, petty Conſtables, Headboroughs, Tythingmen, and all other Officers herein <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ncerned, that they do forthwith cauſe all the Laws and Statutes heretofore made againſt Rogues, Vagabonds, and ſturdy Beggars, wandring and idle Perſons, to be put in Execution, and to that end it is here Ordered,</p>
+            <p n="1">1.
+<note place="margin">7 <hi>Jam.</hi> 4.</note> That all High Conſtables, petty Conſtables, Tythingmen, and other Officers herein concerned ſhall within their ſeveral and reſpective Limits make privy ſearch, One eve<g ref="char:EOLhyphen"/>ry Week (and oftner if need be) in all Houſes, Victualling Houſes, Barns, and other ſuſpected places in the Night time, for the finding out and apprehending of Rogues, Vaga<g ref="char:EOLhyphen"/>bonds, ſturdy Beggars, wandring and idle perſons; and they ſhall alſo apprehend all ſuch Rogues, <hi>&amp;c.</hi> who travel with forged and counterfeit Paſſes in the Day time, and all ſuch Perſons which they ſhall apprehend in ſuch ſearch,
+<note place="margin">39 <hi>Eliz.</hi> 4.</note> or ſhall take begging, wandring, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſordering themſelves, the Conſtable, Headborough, or Tythingman, being aſſiſted with the Miniſter, and ſome other of the Pariſh, ſhall cauſe to be ſtripped naked from the middle upward, and to be openly whipped untill their Bodies be bloudy.</p>
+            <p n="2">2.
+<note place="margin">9 <hi>E<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>z.</hi> 4.</note> That the Conſtable, <hi>&amp;c.</hi> ſhall ſtrictly examine all and every Perſon and Perſons, who ſhall produce any Teſtimonial or Paſſe, to travel to any particular place within this Realm; and if they ſhall find that any ſuch Teſtimonial be not Signed under the Hand end Seal of ſome Juſtice of the Peace of ſome County, or the Mayor or head Officer of ſome Town Corporate, or the Conſtable of ſome Pariſh, or the Miniſter, Headborough, or Tythingman of ſome Pariſh from whence the Party came, or any two of them; or if the Party be not in the direct Road homewards, or within the time limited by the Teſtimonial or Paſſe, or that the Party begs by the way of any Perſon; ſuch Perſons ſo offending in any of theſe Caſes ſhall be whipped, as aforeſaid.</p>
+            <p n="3">3. When any Rogue, <hi>&amp;c.</hi> hath been whipped, the Miniſter, Conſtable, <hi>&amp;c.</hi> of the Pariſh where he was ſo whipped, or any two of them ſhall give him a Paſſe or Teſtimonial under their Hands and Seals, in this or the like form, <hi>&amp;c.</hi>
+               <q>J. R. <hi>A ſturdy Vagrant Beggar, of tall Stature, gray Hair'd, and blind of the left Eye, aged about forty Years, was ſuch a Day and Year openly whipped at</hi> D. <hi>in the County of</hi> Hants, <hi>according to the Law for a wandring Rogue; and is aſſigned to paſs from Pariſh to Pariſh by the Officers thereof, the next ſtraight way to</hi> A. <hi>in the County of</hi> Wilts; <hi>where (as he confeſſeth) he was Born, and he is limited to be at</hi> A. <hi>aforeſaid, within ten Days now next enſuing, at his Peril. Given under the Hands and Seals of</hi> J. S. <hi>Miniſter of</hi> D. <hi>aforeſaid, and</hi> B. D. <hi>Conſtables there.</hi>
+               </q>
+            </p>
+            <p n="4">4. And if ſuch Rogue, <hi>&amp;c.</hi> by his own default exceed the time limited by any ſuch Teſtimonial or Paſſe, he ſhall from time to time receive the like puniſhment. And the Miniſter of ſuch Pariſh ſhall Regiſter ſuch Teſtimonial upon the penalty of 5 <hi>s.</hi>
+            </p>
+            <p n="5">5.
+<note place="margin">39 <hi>E<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</hi> 4.</note> When ſuch Teſtimonial is thus made, every Rogue, <hi>&amp;c.</hi> ſhall be forthwith ſent from Pariſh to Pariſh, by the Officers of every reſpective Pariſh through this County the next ſtraight way to the place of his Birth; and if that cannot be known, then to the place where he laſt dwelt by the ſpace of one whole year before the ſame puniſhment, there to be ſet to work; and if that cannot be known, then to the Pariſh through which he laſt paſſed without puniſhment; and the Officers of that Pariſh ſhall convey the Perſon to the Houſe of Correction, or the Common Gaol of the County, there to be employed in work untill he ſhall be placed in ſome Service for the ſpace of one Year, or not being able of Body, untill he ſhall be placed in ſome Alms-houſe in the County.</p>
+            <p n="6">6.
+<note place="margin">14 <hi>Car.</hi> 2.12. 1 <hi>Jam.</hi> 7.</note> When any Rogue, <hi>&amp;c.</hi> ſhall be brought by any Officer, to any Pariſh, with ſuch Teſtimonial or Paſſe, the Conſtable there ſhall give him neceſſary relief for his paſſage, and then convey him by himſelf or ſome other perſon to the Officers of the next Pariſh, in the way to the Pariſh directed by the Teſtimonial or Paſs. And if any Conſtable, <hi>&amp;c.</hi> be neg<g ref="char:EOLhyphen"/>ligent, and do not his beſt endeavour to apprehend ſuch Rogues, <hi>&amp;c.</hi> idle or diſorderly perſons, and cauſe them to be puniſhed, and conveyed away as aforeſaid, He ſhall forfeit 20 <hi>s.</hi> for every ſuch Offence, and if any perſon whatſoever ſhall hinder the puniſhment or conveyance of any Rogue, or ſhall make Reſcouſe againſt any Officer, or hinder the Execution of theſe Laws, he ſhall forfeit for every ſuch Offence 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> and be bound to his good behaviour.</p>
+            <p n="7">7.
+<note place="margin">39 <hi>Eliz.</hi> 4.</note> That if any ſuch Rogue ſhall be incorrigible, and ſhall ſeem dangerous, or will no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be reformed of his Roguiſh Life, then the Conſtable, <hi>&amp;c.</hi> ſhall convey him to ſome Juſtice of the Peace, to be committed to the Houſe of Correction.</p>
+            <p n="8">8.
+<note place="margin">39 <hi>Eliz.</hi> 4.</note> That the Conſtable, <hi>&amp;c.</hi> ſhall give neceſſary relief, and provide lodging for impeſt Souldiers, or Seafaring-men ſuffering Shipwrack, not having wherewith to relieve themſelves in their travels homewards, and having a Teſtimonial under the Hand of ſome Juſtice of the Peace, of, or near the place where they Landed, declaring the place and time of their Landing, the place of the Petitioners dwelling, or Birth, unto which they be to paſs, and the time limited for their paſſage, ſo that ſuch Seafaring-men be in the direct way home<g ref="char:EOLhyphen"/>wards, and within the time limited for their paſſage. And that no Conſtable or othe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Officer give relief to any other perſons than thoſe that have been whipped, or otherwiſe quali<g ref="char:EOLhyphen"/>fied, as aforeſaid.</p>
+            <p n="9">9.
+<note place="margin">39 <hi>Eliz.</hi> 17.</note> If any Souldiers or Mariners fall ſick in their paſſage home, they ſhall be excuſed though they exceed the time limited in the Teſtimonial, ſo that they perform their journey in convenient time after their recovery.</p>
+            <p n="10">10.
+<note place="margin">39 <hi>Eliz.</hi> 17.</note> That wandring Souldiers, or Mariners, and all others wandring as Souldiers, or Mariners, who will not ſettle themſelves to work, or have not a Teſtimonial under the Hand of ſome Juſtice of the Peace, near the place of their landing, declaring the place where they landed, the place whither they are to paſs, and the time of their paſſage; or exceed<g ref="char:EOLhyphen"/>ing the time limited above fourteen days, or having a counterfeit Teſtimonial, ſhall in all theſe caſes ſuffer as Felons, without any benefit of the Clergy.</p>
+            <p n="11">11.
+<note place="margin">1 <hi>Jam.</hi> 11.</note> The Conſtable, Deputy-Conſtable, Headborough, and Tythingman, ſhall go from houſe to houſe, and give notice to every Houſholder in perſon within their reſpective li<g ref="char:EOLhyphen"/>mits, that they take care, that neither they, nor any of their Servants ſhall from thenceforth receive any Rogue, <hi>&amp;c.</hi> wandring, or diſorderly perſon, or any other perſon, unleſſe poor Inhabitants of the ſame Pariſh licenſed to beg by the Officers, who ſhall happen to beg at any of their houſes. But if they ſee or know any ſuch perſon to beg, they ſhall forth<g ref="char:EOLhyphen"/>with ſend or convey him to the Conſtable, <hi>&amp;c.</hi> in order to be whipped according to Law upon the penalty of 10 <hi>s.</hi> for every ſuch Offence, and to be proſecuted for the ſame at the next Seſſions.</p>
+            <p n="12">12.
+<note place="margin">1 <hi>Jam.</hi> 7.</note> That no Houſekeeper, or other perſon whatſoever, ſhall permit or ſuffer any Rogue, <hi>&amp;c.</hi> wandring, or diſorderly perſon, to lodge, or abide within their Houſes, Barns, or Out-Houſes, near home or remote in the Fields. But upon knowledge thereof they ſhall forthwith give notice to the Conſtable, <hi>&amp;c.</hi> of the ſame Pariſh, to the intent that ſuch Of<g ref="char:EOLhyphen"/>fenders may be puniſhed according to Law, upon pain that every Houſekeeper, or other perſon ſhall forfeit 10 <hi>s.</hi> for every ſuch Offence.</p>
+            <p n="13">13. That if any Ale-houſe-keeper, or Victualler, ſhall from henceforth relieve, entertain, lodge or harbour in their Victualling-houſes any Rogues, <hi>&amp;c.</hi> wandring, or diſorderly per<g ref="char:EOLhyphen"/>ſon, without ſpecial Order from the Conſtable, or Tythingman of the ſame Pariſh <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r their Victualling-houſes ſhall be ſuppreſt, and they ſhall be further dealt with according to Law.</p>
+            <p n="14">14.
+<note place="margin">24 <hi>Car.</hi> 2.12.</note> That every perſon, who ſhall bring any Rogue, <hi>&amp;c.</hi> before any Juſtice of the Peace, ſhall have 2 <hi>s.</hi> allowed him for his pains, to be paid by the Conſtable of the Pariſh through which ſuch a Rogue laſt paſt unpuniſhed, and ſuch Juſtice of the Peace is deſired <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> grant a Warrant to Levy the ſame.</p>
+            <p n="15">15. That the Conſtable of every reſpective Pariſh ſhall not charge or compell the inhabitants of any Village, Town, Pariſh, or Hamlet, to pay any Money to their rates concerning impreſt Souldiers, Mariners, Rogues, Vagrants, or other diſorderly perſons, than to the uſe expreſſed as aforeſaid. And if they do, the ſame ſhall not be allowed upon their Accounts.</p>
+            <p n="16">16. That Chief Conſtables, Petty Conſtables, Headboroughs, Tythingmen, and all other Officers herein concerned, ſhall uſe their utmoſt endeavours to execute thoſe Laws, and ſhall give an account upon Oath in Writing, under the Hand of the Miniſter of every reſpective Pariſh to the Juſtices of the Peace, at their Meetings for their reſpective Diviſions. And in default of ſuch Meetings, to the Juſtices at the next Quarter Seſſions, what Rogues and Vagabonds, wandring, or diſorderly perſons they have apprehended, and how many they have puniſhed, upon the penalty of 40 <hi>s.</hi> for every ſuch Offence. And moreover they ſhall alſo preſent at the next Quarter Seſſions, all Houſe-keepers, Ale-houſe-keepers, or Victuallers, who have relieved at their Doors, or have lodged or harboured in their Houſes, Out-houſes or Barns, any ſuch Rogues, Vagabonds, or ſturdy Beggars, to the intent they may be proſecuted according to Law. And that in the mean time, they cauſe all thoſe Laws and Directions to be publickly read in their reſpective Pariſh Churches, or at the Church Door, and to be regiſtred in their reſpective Pariſh Books, there to be kept and preſerved for the better Information and Example of thoſe that ſhall ſucceed them.</p>
+            <closer>
+               <signed>
+                  <hi>Tho. Cobbe,</hi> Clericus Pacis Com' praedict'.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
